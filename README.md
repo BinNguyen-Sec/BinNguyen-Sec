@@ -14,9 +14,9 @@ SOC · Network Security · Active Directory · Detection Engineering
 
 <br><br>
 
-[LinkedIn](https://www.linkedin.com/in/ngockhai-sec/)   /  
-[Email](mailto:binnguyen.sec@gmail.com)   /  
-`Ho Chi Minh City, Vietnam`
+[↗ LinkedIn](https://www.linkedin.com/in/ngockhai-sec/)    /   
+[✉ Email](mailto:binnguyen.sec@gmail.com)    /   
+`⌖ Ho Chi Minh City, Vietnam`
 
 </div>
 
@@ -24,17 +24,25 @@ SOC · Network Security · Active Directory · Detection Engineering
 
 ---
 
+<div align="center">
+
 <sub>
 
-`01 / SELECTED WORK`    `02 / NOW`    `03 / METHOD`    `04 / STACK`    `05 / CURIOUS`
+`◈ 01 / WORK`    
+`◉ 02 / NOW`    
+`⌁ 03 / METHOD`    
+`▣ 04 / STACK`    
+`✦ 05 / CURIOUS`
 
 </sub>
 
+</div>
+
 <br>
 
-## 01 / selected work
+## ◈ 01 / selected work
 
-### [SOC Homelab / Splunk](https://github.com/BinNguyen-Sec/SOC-Homelab-Splunk)
+### 🔎 [SOC Homelab / Splunk](https://github.com/BinNguyen-Sec/SOC-Homelab-Splunk)
 
 **attack → telemetry → detection → investigation**
 
@@ -48,7 +56,7 @@ Splunk / Windows Events / Linux / Threat Detection / Incident Investigation
 
 ---
 
-### [BinCorp / Enterprise Infrastructure Lab](https://github.com/BinNguyen-Sec/bincorp-enterprise-infrastructure-lab)
+### ⛭ [BinCorp / Enterprise Infrastructure Lab](https://github.com/BinNguyen-Sec/bincorp-enterprise-infrastructure-lab)
 
 **network → identity → endpoint → monitoring**
 
@@ -62,7 +70,7 @@ Active Directory / Windows Server / pfSense / PKI / VPN / Suricata / Splunk
 
 ---
 
-### [Cloud Assignment System](https://github.com/BinNguyen-Sec/cloud-assignment-system-v3)
+### ☁ [Cloud Assignment System](https://github.com/BinNguyen-Sec/cloud-assignment-system-v3)
 
 **application → container → cloud → delivery → monitoring**
 
@@ -74,41 +82,50 @@ Somehow ended up involving containers, CI/CD, identity federation, load balancin
 AWS / Docker / .NET / GitHub Actions / OIDC / ALB / CloudWatch
 </sub>
 
-<br><br>
+<br>
 
-## 02 / now
+<p align="center">
+  <img src="./assets/binnguyen-sec-signal.gif" width="100%" alt="Live signal trace">
+</p>
+
+<br>
+
+## ◉ 02 / now
 
 Most of my time currently goes into:
 
-`CCNA`
-`Kerberos`
+`CCNA`   /  
+`Kerberos`   /  
 `Active Directory Security`
-`Detection Engineering`
+
+`Detection Engineering`   /  
 `Red Team Fundamentals`
 
 <br>
 
 <p align="center">
-  <img src="./assets/binnguyen-sec-trace.gif" width="90%" alt="AUTH 4769 — TRACE — investigating">
+  <img src="./assets/binnguyen-sec-trace.gif" width="88%" alt="AUTH 4769 — TRACE — investigating">
 </p>
 
 <br>
 
 <div align="center">
 
-*still figuring out where exactly I want to end up.*
+<sub>still figuring out where exactly I want to end up.</sub>
 
-**probably somewhere close to the logs.**
+### probably somewhere close to the logs.
 
 </div>
 
-<br><br>
+<br>
 
-## 03 / build / break / understand
+## ⌁ 03 / build · break · understand
+
+<br>
 
 <div align="center">
 
-### read → build → break → stare at logs → trace → fix → understand
+### READ　→　BUILD　→　BREAK　→　OBSERVE　→　TRACE　→　FIX　→　UNDERSTAND
 
 </div>
 
@@ -118,27 +135,45 @@ Reading tells me how something **should** work.
 
 Breaking it usually tells me **why**.
 
-This GitHub isn't really a museum of finished projects. It's closer to a working archive of systems I've built, misconfigured, attacked, debugged and tried to understand a little better.
+This GitHub isn't really a museum of finished projects.
 
-<br><br>
+It's closer to a working archive of systems I've built, misconfigured, attacked, debugged and tried to understand a little better.
 
-## 04 / things that keep showing up
+<br>
 
-**observe**
+> `build first / assumptions later`
+
+<br>
+
+## ▣ 04 / things that keep showing up
+
+<br>
+
+**◉ observe**
 `Splunk / Wireshark / Windows Event Viewer / Sigma / Suricata`
 
-**build**
+<br>
+
+**⛭ build**
 `Windows Server / Active Directory / VMware / pfSense / Cisco Packet Tracer`
 
-**ship**
+<br>
+
+**↗ ship**
 `AWS / Docker / GitHub Actions / Linux`
 
-**script**
+<br>
+
+**⌨ script**
 `PowerShell / Python / C# / .NET`
 
-<br><br>
+<br>
 
-## 05 / current rabbit holes
+---
+
+<br>
+
+## ✦ 05 / current rabbit holes
 
 <sub>things I keep opening another tab for</sub>
 
@@ -155,7 +190,7 @@ This GitHub isn't really a museum of finished projects. It's closer to a working
 
 <div align="center">
 
-### wait — why did that happen?
+### ? / wait — why did that happen?
 
 <sub>
 that's usually where the interesting part starts.
@@ -163,9 +198,20 @@ that's usually where the interesting part starts.
 
 </div>
 
-<br>
+<br><br>
 
 ---
+
+<br>
+
+<table align="center">
+<tr>
+<td><sub>STATUS</sub><br><b>CURIOUS</b></td>
+<td><sub>MODE</sub><br><b>BUILDING</b></td>
+<td><sub>UPTIME</sub><br><b>ONGOING</b></td>
+<td><sub>TRUST</sub><br><b>VERIFY</b></td>
+</tr>
+</table>
 
 <br>
 
@@ -175,10 +221,10 @@ that's usually where the interesting part starts.
 
 `SYSTEMS / LOGS / BAD CONFIGURATIONS / THINGS I PROBABLY BROKE ON PURPOSE`
 
-<br><br>
-
-**build things.   break things.   understand why.**
-
 </sub>
+
+<br>
+
+**⟡ build things.    ⟡ break things.    ⟡ understand why.**
 
 </div>
