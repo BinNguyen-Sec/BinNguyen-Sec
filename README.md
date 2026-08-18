@@ -6,17 +6,15 @@
 
 <div align="center">
 
-**Cybersecurity student. Mostly somewhere between networks, identity, systems — and the logs they leave behind.**
+### Cybersecurity student. Somewhere between networks, identity, systems — and the logs they leave behind.
 
-<sub>
-SOC · Network Security · Active Directory · Detection Engineering
-</sub>
+`SOC` · `Network Security` · `Active Directory` · `Detection Engineering`
 
-<br><br>
+<br>
 
 [↗ LinkedIn](https://www.linkedin.com/in/ngockhai-sec/)    /   
 [✉ Email](mailto:binnguyen.sec@gmail.com)    /   
-`⌖ Ho Chi Minh City, Vietnam`
+**⌖ Ho Chi Minh City, Vietnam**
 
 </div>
 
@@ -26,19 +24,11 @@ SOC · Network Security · Active Directory · Detection Engineering
 
 <div align="center">
 
-<sub>
-
-`◈ 01 / WORK`    
-`◉ 02 / NOW`    
-`⌁ 03 / METHOD`    
-`▣ 04 / STACK`    
-`✦ 05 / CURIOUS`
-
-</sub>
+**`◈ 01 / WORK`　 `◉ 02 / NOW`　 `⌁ 03 / METHOD`　 `▣ 04 / STACK`　 `✦ 05 / CURIOUS`**
 
 </div>
 
-<br>
+<br><br>
 
 ## ◈ 01 / selected work
 
@@ -48,9 +38,7 @@ SOC · Network Security · Active Directory · Detection Engineering
 
 A small SOC environment for generating suspicious activity, collecting telemetry, writing detections and figuring out what actually happened.
 
-<sub>
-Splunk / Windows Events / Linux / Threat Detection / Incident Investigation
-</sub>
+`Splunk` · `Windows Events` · `Linux` · `Threat Detection` · `Incident Investigation`
 
 <br>
 
@@ -62,9 +50,7 @@ Splunk / Windows Events / Linux / Threat Detection / Incident Investigation
 
 An enterprise-style environment where networking, identity and security stop being separate subjects and start becoming one system.
 
-<sub>
-Active Directory / Windows Server / pfSense / PKI / VPN / Suricata / Splunk
-</sub>
+`Active Directory` · `Windows Server` · `pfSense` · `PKI` · `VPN` · `Suricata` · `Splunk`
 
 <br>
 
@@ -78,46 +64,41 @@ Started as a university assignment.
 
 Somehow ended up involving containers, CI/CD, identity federation, load balancing, HTTPS and cloud monitoring.
 
-<sub>
-AWS / Docker / .NET / GitHub Actions / OIDC / ALB / CloudWatch
-</sub>
+`AWS` · `Docker` · `.NET` · `GitHub Actions` · `OIDC` · `ALB` · `CloudWatch`
 
 <br>
 
 <p align="center">
-  <img src="./assets/binnguyen-sec-signal.gif" width="100%" alt="Live signal trace">
+  <img src="./assets/binnguyen-sec-signal.gif" width="100%" alt="Signal trace">
 </p>
 
 <br>
 
 ## ◉ 02 / now
 
-Most of my time currently goes into:
+### Currently digging into
 
-`CCNA`   /  
-`Kerberos`   /  
-`Active Directory Security`
+`CCNA`　·　`Kerberos`　·　`Active Directory Security`
 
-`Detection Engineering`   /  
-`Red Team Fundamentals`
+`Detection Engineering`　·　`Red Team Fundamentals`
 
 <br>
 
 <p align="center">
-  <img src="./assets/binnguyen-sec-trace.gif" width="88%" alt="AUTH 4769 — TRACE — investigating">
+  <img src="./assets/binnguyen-sec-trace.gif" width="100%" alt="AUTH 4769 — TRACE 01:37:22 — STATUS investigating">
 </p>
 
 <br>
 
 <div align="center">
 
-<sub>still figuring out where exactly I want to end up.</sub>
+*still figuring out where exactly I want to end up.*
 
 ### probably somewhere close to the logs.
 
 </div>
 
-<br>
+<br><br>
 
 ## ⌁ 03 / build · break · understand
 
@@ -141,31 +122,27 @@ It's closer to a working archive of systems I've built, misconfigured, attacked,
 
 <br>
 
-> `build first / assumptions later`
+> **`build first / assumptions later`**
 
-<br>
+<br><br>
 
 ## ▣ 04 / things that keep showing up
 
-<br>
+### ◉ observe
 
-**◉ observe**
-`Splunk / Wireshark / Windows Event Viewer / Sigma / Suricata`
+`Splunk` · `Wireshark` · `Windows Event Viewer` · `Sigma` · `Suricata`
 
-<br>
+### ⛭ build
 
-**⛭ build**
-`Windows Server / Active Directory / VMware / pfSense / Cisco Packet Tracer`
+`Windows Server` · `Active Directory` · `VMware` · `pfSense` · `Cisco Packet Tracer`
 
-<br>
+### ↗ ship
 
-**↗ ship**
-`AWS / Docker / GitHub Actions / Linux`
+`AWS` · `Docker` · `GitHub Actions` · `Linux`
 
-<br>
+### ⌨ script
 
-**⌨ script**
-`PowerShell / Python / C# / .NET`
+`PowerShell` · `Python` · `C#` · `.NET`
 
 <br>
 
@@ -175,9 +152,7 @@ It's closer to a working archive of systems I've built, misconfigured, attacked,
 
 ## ✦ 05 / current rabbit holes
 
-<sub>things I keep opening another tab for</sub>
-
-<br>
+### things I keep opening another tab for
 
 `Kerberos authentication`
 `Active Directory attack paths`
@@ -190,11 +165,9 @@ It's closer to a working archive of systems I've built, misconfigured, attacked,
 
 <div align="center">
 
-### ? / wait — why did that happen?
+## ? / wait — why did that happen?
 
-<sub>
-that's usually where the interesting part starts.
-</sub>
+**that's usually where the interesting part starts.**
 
 </div>
 
@@ -206,25 +179,33 @@ that's usually where the interesting part starts.
 
 <table align="center">
 <tr>
-<td><sub>STATUS</sub><br><b>CURIOUS</b></td>
-<td><sub>MODE</sub><br><b>BUILDING</b></td>
-<td><sub>UPTIME</sub><br><b>ONGOING</b></td>
-<td><sub>TRUST</sub><br><b>VERIFY</b></td>
+<td align="center" width="150">
+<b>STATUS</b><br>
+CURIOUS
+</td>
+<td align="center" width="150">
+<b>MODE</b><br>
+BUILDING
+</td>
+<td align="center" width="150">
+<b>UPTIME</b><br>
+ONGOING
+</td>
+<td align="center" width="150">
+<b>TRUST</b><br>
+VERIFY
+</td>
 </tr>
 </table>
 
-<br>
+<br><br>
 
 <div align="center">
 
-<sub>
-
 `SYSTEMS / LOGS / BAD CONFIGURATIONS / THINGS I PROBABLY BROKE ON PURPOSE`
 
-</sub>
+<br><br>
 
-<br>
-
-**⟡ build things.    ⟡ break things.    ⟡ understand why.**
+### ⟡ build things.　⟡ break things.　⟡ understand why.
 
 </div>
