@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/binnguyen-sec-banner.png" width="100%" alt="BINNGUYEN-SEC">
+</p>
 <div align="center">
 
 # Bin Nguyen
